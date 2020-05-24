@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: needyTypingTutor
+  title: Needy Typing Tutor
+  author: UltraCboy
+  description: "My first proper new mod release in nearly three years\n\nThis is the
+    Typing Tutor. The goal of it is simple: type the word displayed on the screen.
+    But there's no keyboard in sight on this module, how are you going to type? Simple:
+    use your own keyboard.\n\n\rIf you have any issues or suggestions, your best bet
+    is to contact me on Discord, either through DMs or through the KTANE Discord server.
+    My username is UltraCboy#4639.\r\n\r\nModule ID: needyTypingTutor\nManual Page:
+    Available in the build folder, will eventually be available at ktane.timwi.de\n\nThank
+    you, and happy defusing!"
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 84e96ebd295cc94499726e6ab485c84f, type: 3}
