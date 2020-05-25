@@ -14,14 +14,16 @@ MonoBehaviour:
   id: needyTypingTutor
   title: Needy Typing Tutor
   author: UltraCboy
-  description: "My first proper new mod release in nearly three years\n\nThis is the
-    Typing Tutor. The goal of it is simple: type the word displayed on the screen.
-    But there's no keyboard in sight on this module, how are you going to type? Simple:
-    use your own keyboard.\n\n\rIf you have any issues or suggestions, your best bet
-    is to contact me on Discord, either through DMs or through the KTANE Discord server.
-    My username is UltraCboy#4639.\r\n\r\nModule ID: needyTypingTutor\nManual Page:
-    Available in the build folder, will eventually be available at ktane.timwi.de\n\nThank
+  description: "My first proper new mod release in nearly three years, and it's another
+    needy.\n\nThis is the Typing Tutor. The goal of it is simple: type the word displayed
+    on the screen. But if there's no keyboard in sight on this module, how are you
+    going to type? Simple: use your own keyboard. Don't worry if you don't have your
+    own keyboard, this mod can be configured to change that. Information on how to
+    do so is provided in the manual.\n\n\rIf you have any issues or suggestions, your
+    best bet is to contact me on Discord, either through DMs or through the KTANE
+    Discord server. My username is UltraCboy#4639.\r\n\r\nModule ID: needyTypingTutor\nManual
+    Page: Available in the build folder, will eventually be available at ktane.timwi.de\n\nThank
     you, and happy defusing!"
-  version: 1.0
+  version: 1.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 84e96ebd295cc94499726e6ab485c84f, type: 3}
