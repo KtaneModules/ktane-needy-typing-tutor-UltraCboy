@@ -139,7 +139,7 @@ public class TypingTutor : MonoBehaviour {
 	}
 	private void OnNeedyActivation()
 	{
-		TTModule.SetNeedyTimeRemaining(30);
+		TTModule.SetNeedyTimeRemaining(TTModule.CountdownTime);
 		SetNewWord();
 		Successes = 0;
 		isActive = true;
